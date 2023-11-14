@@ -1,29 +1,26 @@
 ### Hi there 👋
 
-<!--
-**Dini96/Dini96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 <h1 align="center">Hi 👋, I'm Oswaldo</h1>
 <h3 align="center">A passionate Data Scientist from Mexico</h3>
 
 - 🌱 I’m currently learning **Google Cloud**
 
+-  🔭 I’m currently working on **Developing new data science projects**
+
 - 📫 How to reach me **oswagaru@gmail.com**
 
+- 🤔 I’m looking for help with **Acquiring new experiences**
+
+ - 💬 Ask me about **technology or science related if I don't know anything about it I will look for it and learn something new**
+
+_____
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/oswagaru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oswagaru" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oswagaru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oswagaru" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
